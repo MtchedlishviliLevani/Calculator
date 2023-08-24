@@ -87,11 +87,11 @@ h2 {
 }
 
 .day-mode::before {
-  content: url(/assets/icon/day-mode.svg);
+  content: url(../icon/day-mode.svg);
 }
 
 .night-mode::before {
-  content: url(/assets/icon//night-mode.svg);
+  content: url(../icon//night-mode.svg);
 }
 .down-part {
   background-color: #f5f5f5;
